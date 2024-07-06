@@ -1,0 +1,12 @@
+﻿{
+  "name": "MessagePenguCC",
+  "author": "Tully_Vin",
+  "authorName": "Tully_Vin",
+  "version_number": "0.0.1",
+  "website_url": "",
+  "description": "Send messages directly to PenguCC to let them know what you think of repackaging other people's mods, stealing their art and making a shady API reporting mod a dependency that could very easily be exploited.",
+  "dependencies": [
+    "bbepis-BepInExPack-5.4.*",
+    "RiskofThunder-HookGenPatcher-1.2.*"
+  ]
+}
